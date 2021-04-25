@@ -1,8 +1,3 @@
-# Clearing the environment
-rm(list=ls(all=T))
-# Setting working directory
-setwd("C:/Users/Ujjwal/Desktop/Project 1")
-
 # Loading libraries
 library(ggplot2)
 library(corrgram)
